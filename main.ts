@@ -1,5 +1,5 @@
 //% icon="\uf192" color=#005953
-namespace more {
+namespace sprites {
 
 
 
